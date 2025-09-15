@@ -27,3 +27,4 @@
    powershell
    git clone https://github.com/username/poker-bot-assistant.git
    cd poker-bot-assistant
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3d53917-10fb-4718-b9dc-b0c48f96a95e" />
